@@ -7,7 +7,7 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 
 
-public class SensitiveTest
+public class SensitiveTest1
 {
 	public static void main(String args[])
 	{
